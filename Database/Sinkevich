@@ -2,13 +2,14 @@
   Username=Sinkevich
   DomainName=SHATE
   ComputerName=SPBYMINW0712
+   LastActivityData
        {
           LastConnectedIP=217.21.54.196
           LastLocation=53.9000,27.5667
           LastCity=Minsk
           LastRegion=Minsk City
           LastCounty=BY
-          LastActivity=16.08.2024 14:11:19
+          LastActivity=16.08.2024 14:12:32
        }
   FCDLicense=True
   DateToOverLicence=01.01.2999
