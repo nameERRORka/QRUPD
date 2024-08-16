@@ -1,0 +1,16 @@
+{
+  Username=FCORETOP
+  DomainName=FCORETOP
+  ComputerName=FCORETOP
+  LastActivityData
+       {
+          LastConnectedIP=37.214.40.134
+          LastLocation=53.9000,27.5667
+          LastCity=Minsk
+          LastRegion=Minsk City
+          LastCounty=BY
+          LastActivity=16.08.2024 20:31:25
+       }
+  FCDLicense=True
+  DateToOverLicence=01.01.2999
+}
