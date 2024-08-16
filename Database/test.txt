@@ -1,1 +1,4 @@
-Новое содержимое файла
+Username=Sinkevich
+DomainName=SHATE
+FCDLicense=TRUE
+LastActivity=16.08.2024 10:47:44
