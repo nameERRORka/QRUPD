@@ -1,7 +1,15 @@
 {
- Username=Sinkevich
- DomainName=SHATE
- FCDLicense=True
- LastActivity=16.08.2024 13:47:18
- DateToOverLicence=01.01.2999
+  Username=Sinkevich
+  DomainName=SHATE
+  ComputerName=SPBYMINW0712
+       {
+          LastConnectedIP=NULL
+          LastLocation=NULL
+          LastCity=NULL
+          LastRegion=NULL
+          LastCounty=NULL
+       }
+  FCDLicense=True
+  LastActivity=16.08.2024 14:02:57
+  DateToOverLicence=01.01.2999
 }
