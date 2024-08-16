@@ -3,13 +3,13 @@
   DomainName=SHATE
   ComputerName=SPBYMINW0712
        {
-          LastConnectedIP=NULL
-          LastLocation=NULL
-          LastCity=NULL
-          LastRegion=NULL
-          LastCounty=NULL
+          LastConnectedIP=217.21.54.196
+          LastLocation=53.9000,27.5667
+          LastCity=Minsk
+          LastRegion=Minsk City
+          LastCounty=BY
        }
   FCDLicense=True
-  LastActivity=16.08.2024 14:07:41
+  LastActivity=16.08.2024 14:10:02
   DateToOverLicence=01.01.2999
 }
