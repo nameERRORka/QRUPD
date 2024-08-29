@@ -5,12 +5,11 @@
   LastActivityData
        {
           LastConnectedIP=217.21.54.196
-          LastLocation=53.9000,27.5667
           LastCity=Minsk
           LastRegion=Minsk City
           LastCounty=BY
-          LastActivity=16.08.2024 15:10:17
+          LastActivity=29.08.2024 15:08:12
        }
-  FCDLicense=False
-  DateToOverLicence=01.01.2999
+  FCDLicense=True
+  DateToOverLicence=20.10.2025
 }
