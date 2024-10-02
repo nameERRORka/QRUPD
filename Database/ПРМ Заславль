@@ -1,14 +1,14 @@
 {
   Username=ПРМ Заславль
   DomainName=21VEK
-  ComputerName=21VEK1183W
+  ComputerName=SKLD512
   LastActivityData
        {
           LastConnectedIP=37.17.72.146
           LastCity=Minsk
           LastRegion=Minsk City
           LastCounty=BY
-          LastActivity=25.09.2024 9:18:19
+          LastActivity=02.10.2024 11:32:43
        }
   FCDLicense=True
   DateToOverLicence=20.10.2024
