@@ -4,12 +4,12 @@
   ComputerName=FCORETOP
   LastActivityData
        {
-          LastConnectedIP=37.214.31.155
+          LastConnectedIP=37.214.60.110
           LastCity=Minsk
           LastRegion=Minsk City
           LastCounty=BY
-          LastActivity=05.02.2025 18:29:09
+          LastActivity=03.03.2025 19:56:28
        }
   FCDLicense=True
-  DateToOverLicence=20.10.2025
+  DateToOverLicence=20.10.2060
 }
