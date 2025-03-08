@@ -4,12 +4,12 @@
   ComputerName=SKLD3044
   LastActivityData
        {
-          LastConnectedIP=46.216.2.93
+          LastConnectedIP=37.17.72.146
           LastCity=Minsk
           LastRegion=Minsk City
           LastCounty=BY
-          LastActivity=03.03.2025 17:50:19
+          LastActivity=08.03.2025 16:55:50
        }
-  FCDLicense=False
-  DateToOverLicence=
+  FCDLicense=True
+  DateToOverLicence=01.01.2999
 }
