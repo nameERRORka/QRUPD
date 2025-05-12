@@ -8,8 +8,8 @@
           LastCity=Minsk
           LastRegion=Minsk City
           LastCounty=BY
-          LastActivity=12.05.2025 11:15:38
+          LastActivity=12.05.2025 11:17:16
        }
-  FCDLicense=True
-  DateToOverLicence=20.10.2060
+  FCDLicense=False
+  DateToOverLicence=
 }
